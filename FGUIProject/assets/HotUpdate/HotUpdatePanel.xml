@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1920,1080">
+  <displayList>
+    <text id="n0_f9w8" name="n0" xy="600,250" size="700,200" fontSize="100" align="center" vAlign="middle" autoSize="none" text="热更新"/>
+    <component id="n1_f9w8" name="n1" src="f9w81" fileName="ProgressBar1.xml" pkg="du7jwz5y" xy="600,700" size="700,30">
+      <ProgressBar value="50" max="100"/>
+    </component>
+  </displayList>
+</component>
